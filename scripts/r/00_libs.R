@@ -25,3 +25,5 @@ library("tidybayes")
 library("bayestestR")
 library(bayesDiagnostics)
 library(praatpicture)
+
+library(flextable)
