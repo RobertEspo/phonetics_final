@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.2)  2 OCT 2026 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.2)  2 OCT 2026 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,19 +506,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 242.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 240.
 (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 242.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 240.
 (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 242.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 240.
 (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 242.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 240.
 (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 ) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
@@ -526,36 +526,36 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 242.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 240.
 (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 242.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 240.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 242.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 240.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 242.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 240.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [2]
 
-LaTeX Warning: Citation `vargo2025praat' on page 3 undefined on input line 284.
+LaTeX Warning: Citation `vargo2025praat' on page 3 undefined on input line 281.
 
 
-LaTeX Warning: Citation `fox2009cross' on page 3 undefined on input line 291.
+LaTeX Warning: Citation `fox2009cross' on page 3 undefined on input line 288.
 
 
-LaTeX Warning: Citation `coretta2025tutorial' on page 3 undefined on input line 299.
+LaTeX Warning: Citation `coretta2025tutorial' on page 3 undefined on input line 296.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./includes/figures/f1_f2_p_all.png, id=106, 170.67764pt x 569.0058pt>
+<./includes/figures/f1_f2_p_all.png, id=101, 170.67764pt x 569.0058pt>
 File: ./includes/figures/f1_f2_p_all.png Graphic file (type png)
 <use ./includes/figures/f1_f2_p_all.png>
-Package pdftex.def Info: ./includes/figures/f1_f2_p_all.png  used on input line 334.
+Package pdftex.def Info: ./includes/figures/f1_f2_p_all.png  used on input line 331.
 (pdftex.def)             Requested size: 170.72147pt x 569.0565pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -564,14 +564,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 (./main.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[4 <./includes/figures/f1_f2_p_all.png>]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 39.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 30.
 (c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 2142) in paragraph at lines 66--67
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[4 <./includes/figures/f1_f2_p_all.png>]
+Underfull \hbox (badness 2142) in paragraph at lines 57--58
 []\T1/ptm/m/n/10 (+20) A. C. Aldrich, \T1/ptm/m/it/10 (+20) Ac-qui-si-tion of L2 phonol-ogy:
  []
 
@@ -579,18 +579,13 @@ Underfull \hbox (badness 2142) in paragraph at lines 66--67
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 100.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[5]) (./main.ent)
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 100.
+) (./main.ent)
 \openout3 = `main.ent'.
 
-[6
-
-] (./main.aux)
+[5] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
@@ -600,18 +595,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 15882 strings out of 468997
- 255067 string characters out of 5454168
- 709125 words of memory out of 5000000
- 44386 multiletter control sequences out of 15000+600000
- 691028 words of font info for 312 fonts, out of 8000000 for 9000
+ 15869 strings out of 468997
+ 254879 string characters out of 5454168
+ 707004 words of memory out of 5000000
+ 44383 multiletter control sequences out of 15000+600000
+ 690673 words of font info for 308 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 76i,6n,81p,1056b,664s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 76i,6n,81p,1056b,662s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb><c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
-Output written on main.pdf (6 pages, 520416 bytes).
+Output written on main.pdf (5 pages, 519230 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
- 228 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 500000)
+ 240 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
  57486 words of extra memory for PDF output out of 61914 (max. 10000000)
 
