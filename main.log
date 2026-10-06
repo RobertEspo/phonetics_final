@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.2)  2 OCT 2026 19:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.2)  2 OCT 2026 20:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -595,15 +595,15 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 15869 strings out of 468997
- 254879 string characters out of 5454168
+ 15872 strings out of 468997
+ 254903 string characters out of 5454168
  707004 words of memory out of 5000000
  44383 multiletter control sequences out of 15000+600000
- 690673 words of font info for 308 fonts, out of 8000000 for 9000
+ 690803 words of font info for 310 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  76i,6n,81p,1056b,662s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb><c:/Users/rober/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
-Output written on main.pdf (5 pages, 519230 bytes).
+Output written on main.pdf (5 pages, 519273 bytes).
 PDF statistics:
  240 PDF objects out of 1000 (max. 8388607)
  219 compressed objects within 3 object streams
