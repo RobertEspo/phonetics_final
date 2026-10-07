@@ -20,7 +20,6 @@ gam_f2 <- bam(
   method = "ML"
 )
 
-
 gam_tl <- bam(
   tl ~ 
     stress +
